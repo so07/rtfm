@@ -2,8 +2,8 @@ site_name: RTFM, please
 theme:
   name: readthedocs
   highlightjs: true
-#plugins:
-#  - search
+plugins:
+  - search
 #  - mkdocstrings:
 #      handlers:
 #        # See: https://mkdocstrings.github.io/python/usage/
