@@ -1,2 +1,4 @@
 site_name: RTFM, please
 
+plugins:
+  - search
