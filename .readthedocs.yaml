@@ -2,3 +2,6 @@ version: 2
 
 build:
   image: latest
+
+mkdocs:
+  configuration: mkdocs.yml
