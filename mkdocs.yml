@@ -10,8 +10,11 @@ plugins:
 #        python:
 #          options:
 #            docstring_style: sphinx
-markdown_extensions:
-  - markdown_include.include:
-      base_path: .
-#  - admonition
-site_url: https://rtfm-please.readthedocs.io/
+#markdown_extensions:
+#  - markdown_include.include:
+#      base_path: .
+##  - admonition
+##repo_url: https://github.com/so07/rtfm.git/
+#repo_url: https://github.com/so07/rtfm/
+#edit_uri: blob/main/
+
