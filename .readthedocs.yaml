@@ -2,11 +2,11 @@ version: 2
 
 mkdocs:
   configuration: mkdocs.yml
-  fail_on_warning: false
+  #fail_on_warning: false
 
 python:
    install:
    - requirements: docs/requirements.txt
 
-build:
-  image: latest
+#build:
+#  image: latest
