@@ -4,11 +4,9 @@
 
 # Usage
 
-see [this](../link1.md) for details
+see [link1](link1.md)
 
-see [this 2](docs/link2.md) for details
-
-see [this 2](link2.md) for details
+see [link2](link2.md)
 
 # References
 
